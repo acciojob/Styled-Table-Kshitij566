@@ -1,1 +1,13 @@
 /* your code */
+table th{
+	background-color:rgb(33,90,142);
+	color:white;
+	
+}
+table{
+	background-color:white;
+	border: 1px solid gray;
+}
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
