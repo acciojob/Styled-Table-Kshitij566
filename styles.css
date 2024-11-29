@@ -3,10 +3,14 @@ table th{
 	background-color:rgb(33,90,142);
 	color:white;
 	
+	padding:5px;
+	
 }
 table{
 	background-color:white;
 	border: 1px solid gray;
+	width:100%;
+	padding:10px;
 }
 tr:nth-child(odd) {
   background-color: #dddddd;
